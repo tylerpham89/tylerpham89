@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM Lab Project</b>
-  - [Documentation of me and a couple of other students messing with the server racks at our school](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Documentation of me and a couple of other students messing with the server racks at our school](https://github.com/tylerpham89/SIEM-Lab)
 - <b>Malware Analysis and Reverse Engineering</b>
   - [Packed vs Non-packed File Analysis Using Detect It Easy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Dynamic analyzation of RAT file]
