@@ -5,18 +5,16 @@
 - <b>SIEM Lab Project</b>
   - [Documentation of me and a couple of other students messing with the server racks at our school](https://github.com/tylerpham89/SIEM-Lab)
 - <b>Malware Analysis and Reverse Engineering</b>
-  - [Packed vs Non-packed File Analysis Using Detect It Easy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Dynamic analyzation of RAT file]
+  - [Packed vs Non-packed File Analysis Using Detect It Easy](https://github.com/tylerpham89/Packed-Vs-Non-Packed-Files-Analysis)
+  - [Dynamic analyzation of RAT file](https://github.com/tylerpham89/Dynamic-Analyzation-of-a-RAT-File)
 - <b>Digital Forensics</b>
-  - [Digital image carving using scalpel](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Metadata and Content Analysis of Digital Files Using Forensic Techniques]
+  - [Digital image carving using scalpel](https://github.com/tylerpham89/Digital-Image-Carving-Using-Scalpel)
+  - [Metadata and Content Analysis of Digital Files Using Forensic Techniques](https://github.com/tylerpham89/Metadata-and-Content-Analysis-of-Digital-Files-Using-Forensic-Techniques)
 
 - <b>Machine Learning</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - to be added
 - <b>SQL Database Project</b>
-  - [Video game database](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Video game database](https://github.com/tylerpham89/Video-Game-Database)
 <!--
 <h2>📺 Popular YouTube Videos</h2>
 
