@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SIEM Lab Project</b>
+- <b>General Cyber Projects</b>
+  - [Remote PC control project](https://github.com/tylerpham89/Remote-Computer-Control)
   - [Documentation of me and a couple of other students messing with the server racks at our school](https://github.com/tylerpham89/SIEM-Lab)
 - <b>Malware Analysis and Reverse Engineering</b>
   - [Packed vs Non-packed File Analysis Using Detect It Easy](https://github.com/tylerpham89/Packed-Vs-Non-Packed-Files-Analysis)
