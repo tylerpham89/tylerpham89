@@ -6,7 +6,7 @@
   - [Remote PC control project](https://github.com/tylerpham89/Remote-Computer-Control)
   - [Documentation of me and a couple of other students messing with the server racks at our school](https://github.com/tylerpham89/SIEM-Lab)
 - <b>Malware Analysis and Reverse Engineering</b>
-  - [Packed vs Non-packed File Analysis Using Detect It Easy]((https://github.com/tylerpham89/Packed-vs-non-packed))
+  - [Packed vs Non-packed File Analysis Using Detect It Easy](https://github.com/tylerpham89/Packed-vs-non-packed)
   - [Dynamic analyzation of RAT file](https://github.com/tylerpham89/Dynamic-Analyzation-of-a-RAT-File)
   - [Silly Putty Trojan Analysis](https://github.com/tylerpham89/Silly-Putty-Trojan-Analysis)
 - <b>Digital Forensics</b>
