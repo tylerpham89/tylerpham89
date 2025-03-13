@@ -8,6 +8,7 @@
 - <b>Malware Analysis and Reverse Engineering</b>
   - [Packed vs Non-packed File Analysis Using Detect It Easy](https://github.com/tylerpham89/Packed-Vs-Non-Packed-Files-Analysis)
   - [Dynamic analyzation of RAT file](https://github.com/tylerpham89/Dynamic-Analyzation-of-a-RAT-File)
+  - [Silly Putty Trojan Analysis](https://github.com/tylerpham89/Silly-Putty-Trojan-Analysis)
 - <b>Digital Forensics</b>
   - [Digital image carving using scalpel](https://github.com/tylerpham89/Digital-Image-Carving-Using-Scalpel)
   - [Metadata and Content Analysis of Digital Files Using Forensic Techniques](https://github.com/tylerpham89/Metadata-and-Content-Analysis-of-Digital-Files-Using-Forensic-Techniques)
