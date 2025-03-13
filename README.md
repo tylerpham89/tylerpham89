@@ -26,16 +26,20 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
+
+<b> <h2> 🔭 I’m currently working on ... </h2> </b>
+- getting my CompTIA Certification
+- my school's server rack
+- finding a mentor or guide to teach me and guide me
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/tyler-pham-860392214/
 
-<h2> - 🔭 I’m currently working on ... </h2>
-- getting my CompTIA Certification
-- my school's server rack
-- finding a mentor or guide to teach me and guide me 
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
