@@ -30,7 +30,7 @@
 <b> <h2> 🔭 I’m currently working on ... </h2> </b>
 - getting my CompTIA Certification
 - my school's server rack
-- finding a mentor or guide to teach me and guide me
+- finding a mentor to teach and guide me
 
 <h2> 🤳 Connect with me:</h2>
 
